@@ -1,0 +1,9 @@
+!config
+paths:
+- '@{userhome}/Dropbox/TeXnology/arara/rules'
+filetypes:
+- extension: tex
+- extension: dtx
+- extension: ltx
+- extension: Rnw
+  pattern: ^(\s)*%\s+
