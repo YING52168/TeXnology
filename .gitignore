@@ -5,6 +5,9 @@
 *.*~
 \#*.*\#
 
+# No need for documentation
+*.pdf
+
 # Not for public consumption
 *msuletterhead*
 ./TEXMFHOME/tex/latex/graphics/
