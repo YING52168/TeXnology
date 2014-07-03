@@ -13,4 +13,4 @@
 TEXMFHOME/tex/latex/graphics/
 
 # Pesky symlinks
-*Sweave.sty
+**/Sweave.sty
