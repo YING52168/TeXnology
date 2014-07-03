@@ -1,0 +1,3 @@
+[submodule "lingsem"]
+	path = lingsem
+	url = https://github.com/adamliter/lingsem.git
