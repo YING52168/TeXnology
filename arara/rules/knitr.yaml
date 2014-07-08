@@ -1,5 +1,5 @@
 !config
 identifier: knitr
 name: knitr
-command: Rscript -e "library(knitr); knit('@{getBasename(file)}.Rnw')"
+command: <arara> Rscript -e "library(knitr); knit('@{getBasename(file)}.Rnw')"
 arguments: []
