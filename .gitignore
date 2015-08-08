@@ -10,7 +10,6 @@
 
 # Not for public consumption
 *msuletterhead*
-TEXMFHOME/tex/latex/graphics/
 
 # Pesky symlinks
 **/Sweave.sty
